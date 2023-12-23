@@ -16,7 +16,7 @@ Este repositório contém o projeto para o desafio Full Cycle relacionado ao Doc
 
 1. **Clonar o Repositório**
 
-2. **Construir a Imagem Docker**
+2. **Construir a Imagem Docker** (not required)
 
 3. **Executar a Imagem**
 
@@ -25,6 +25,7 @@ Você deverá ver a mensagem: "Full Cycle Rocks!!"
 ## Docker Hub
 
 A imagem está disponível no Docker Hub. Você pode baixá-la e executá-la usando o seguinte comando:
+docker run rodriguesra/fullcycle
 
 Link para a imagem no Docker Hub: [https://hub.docker.com/repository/docker/rodriguesra/fullcycle/general]
 
